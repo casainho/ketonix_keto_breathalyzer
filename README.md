@@ -10,7 +10,6 @@ OR<br>
 2. connect a NRF52840 board in parallel to original board (only 3 wires to solder: 5V, GND and sensor analog signal)<br>
 2.1 develop our own firmware, which should be quick to do thanks to Nordic SDK and many other OpenSource projects or Arduino<br>
 2.3 use original app to see sensor voltage values and measured PPM values<br>
-<br>
 3. develop and OpenSource mobile app to have better graphs analysis and import / export our own data, etc<br>
 
 # Main board
