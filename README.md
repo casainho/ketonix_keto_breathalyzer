@@ -1,5 +1,5 @@
 On this repository I am documenting the information I found about the Ketonix breath Ketone Analyzer, that I bought here and that I highly recommend: https://www.ketonix.com/<br>
-I hope this information is useful in the case you need to repair your unit and simple want to hack it.
+I hope this information is useful in the case you need to repair your unit or simple want to hack it.
 
 I decided to see what is inside because I was curious about it, since I also bought a cheap 10€ Breathalyzer Breath Test Alcohol on EBay and it was not able to detect my low values of Acetone at around 5 PPM.
 
@@ -10,7 +10,6 @@ OR<br>
 2. connect a NRF52840 board in parallel to original board (only 3 wires to solder: 5V, GND and sensor analog signal)<br>
 2.1 develop our own firmware, which should be quick to do thanks to Nordic SDK and many other OpenSource projects or Arduino<br>
 2.3 use original app to see sensor voltage values and measured PPM values<br>
-<br>
 3. develop and OpenSource mobile app to have better graphs analysis and import / export our own data, etc<br>
 
 # Main board
