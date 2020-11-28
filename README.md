@@ -18,7 +18,11 @@ OR<br>
 This is the main board of Ketonix (bought on November 2020):
 ![](documentation/ketonix_01.jpg)
 
-See more pictures on the documentation folder.
+![](documentation/ketonix_05.jpg)
+
+![](documentation/ketonix_06.jpg)
+
+See more pictures on the [documentation]() folder.
 
 Seems it was designed by Michel Lundell, the founder of Ketonix.
 <br>
@@ -71,8 +75,3 @@ We can see on the Nordic NRFConnect mobile app the Bluetooth services available:
 ![](documentation/ketonix_bluetooth_01.jpg)
 
 ![](documentation/ketonix_bluetooth_02.jpg)
-
-
-
-
-
