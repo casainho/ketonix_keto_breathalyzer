@@ -10,9 +10,9 @@ Here is the graph of my second week testing keto diet as also Ketonix:
 # Ideas for future
 
 Work to improve on limitations of original Ketonix mobile app:
-- do not save more than the last 7 days of measurements
-- no possibility to export and import data measurements
-- Ketonix app forces GPS / my location to be enable which dangerous!!
+- does not save more than the last 7 days of measurements
+- there is no possibility to export and import data measurements
+- the app forces GPS / my location to be enable which does not make sense for a system that just needs to measure my breath acetone
 
 1. find way to access the data on the Bluetooth service<br>
 OR<br>
