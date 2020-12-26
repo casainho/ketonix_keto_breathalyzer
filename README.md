@@ -1,6 +1,6 @@
 On this repository I am documenting the information I found about the Ketonix breath Ketone Analyzer, that I bought here and that I highly recommend: https://www.ketonix.com/<br>
 
-I hope this information is useful for you in the case you need to repair your Ketonix or simple want to hack it.
+I hope this information is useful for you in the case you need to repair your Ketonix or simple want to understand how it works.
 
 I decided to see what is inside Ketonix. I also bought a cheap 10€ Breathalyzer Breath Test Alcohol on EBay and unlike Ketonix, it was not able to detect my low values of Acetone at around 5 PPM.
 
