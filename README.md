@@ -56,6 +56,14 @@ Some notes:
 
 Seems there is a kind of opamp under the red board that does an attenuation of the sensor signal by 0,577 (for instance: sensor analog signal = 520mv and nRF51822 P0.5 pin = 300mv).
 
+# Firmware
+
+The original firmware were dumped using the tool [nrfsec](https://github.com/buildxyz-git/nrfsec/) - although the firmware was not protected:
+
+![](documentation/ketonix_firmware.png)
+
+Find it on the [firmware_ketonix-01.2021](/firmware_ketonix-01.2021) folder.
+
 # Sensor
 
 The sensor seems to be the popular MQ3 alcohol sensor Module, very popular if you search for it and Arduino.
