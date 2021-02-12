@@ -64,6 +64,10 @@ The original firmware were dumped using the tool [nrfsec](https://github.com/bui
 
 Find it on the [firmware_ketonix-01.2021](/firmware_ketonix-01.2021) folder.
 
+Using Ghidra or Cutter / Radare, I can see this strings on the firmware:
+
+![](documentation/ketonix_firmware_strings.png)
+
 # Sensor
 
 The sensor seems to be the popular MQ3 alcohol sensor Module, very popular if you search for it and Arduino.
